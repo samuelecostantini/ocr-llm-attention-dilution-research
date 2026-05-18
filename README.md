@@ -227,7 +227,7 @@ If you reference this work, please cite as:
 ## 📬 Contact
 
 - 🐙 GitHub: [@samuelecostantini](https://github.com/samuelecostantini)
-- 💼 LinkedIn: [add your link]
+- 💼 LinkedIn: https://www.linkedin.com/in/samuele-costantini-1204a3346/
 - ✉️ Open an issue on this repo for technical questions
 
 ---
