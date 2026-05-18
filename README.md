@@ -2,6 +2,7 @@
 
 This repository contains the source code, experimental framework, and thesis dataset for a research project focused on automating structured data extraction from heterogeneous documents. The study implements a hybrid pipeline that couples an optical character recognition engine with a state-of-the-art Large Language Model (LLM) to evaluate the semantic correction capabilities of various prompt engineering strategies.
 
+Main project: https://github.com/samuelecostantini/prompt-ocr-llm-software-benchmark
 ---
 
 ## 🎯 Project Overview & Objective
