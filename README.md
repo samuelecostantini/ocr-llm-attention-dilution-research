@@ -3,7 +3,8 @@
 
 > **B.Sc. Thesis in Computer Science** — University of Perugia, Department of Mathematics and Computer Science
 > Academic Year 2024/2025
-> **Author:** Samuele Costantini · **Supervisor:** Prof. Leonardo Mostarda
+> **Author:** Samuele Costantini
+> **Codebase:** https://github.com/samuelecostantini/prompt-ocr-llm-software-benchmark
 
 ![Status](https://img.shields.io/badge/status-completed-success)
 ![Language](https://img.shields.io/badge/thesis-italian-blue)
@@ -217,7 +218,6 @@ If you reference this work, please cite as:
   type         = {Bachelor's Thesis},
   institution  = {University of Perugia, Department of Mathematics and Computer Science},
   year         = {2025},
-  supervisor   = {Mostarda, Leonardo},
   url          = {https://github.com/samuelecostantini/ocr-llm-attention-dilution-research}
 }
 ```
