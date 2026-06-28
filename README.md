@@ -17,7 +17,7 @@
 
 I built a benchmarking framework to evaluate how different **prompt engineering strategies** affect data extraction accuracy in **hybrid OCR + LLM pipelines** (AWS Textract → GPT-4o). I tested 5 prompting techniques on a heterogeneous corpus of 20 documents (invoices, receipts, IDs, contracts, newspapers, corporate intelligence) across multiple quality and layout dimensions.
 
-**Main finding — counterintuitive but well-supported:** increasing prompt complexity does **not** correlate with higher accuracy. The minimal **Zero-shot** prompt outperformed Few-shot, Chain-of-Thought, Hybrid (Forensic + CoT + Structural Awareness), and Emotion Prompting on structured extraction tasks, empirically confirming the *"Lost in the Middle"* phenomenon (Liu et al., 2024) on a specific applied domain: OCR post-correction for fiscal documents.
+**Main finding - counterintuitive but well-supported:** increasing prompt complexity does **not** correlate with higher accuracy. The minimal **Zero-shot** prompt outperformed Few-shot, Chain-of-Thought, Hybrid (Forensic + CoT + Structural Awareness), and Emotion Prompting on structured extraction tasks, empirically confirming the *"Lost in the Middle"* phenomenon (Liu et al., 2024) on a specific applied domain: OCR post-correction for fiscal documents.
 
 ---
 
